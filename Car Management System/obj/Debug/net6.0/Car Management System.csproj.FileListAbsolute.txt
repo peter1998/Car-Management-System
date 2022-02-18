@@ -1,0 +1,27 @@
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\appsettings.Development.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\appsettings.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Car Management System.exe
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Car Management System.deps.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Car Management System.runtimeconfig.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Car Management System.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\ref\Car Management System.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Car Management System.pdb
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.GeneratedMSBuildEditorConfig.editorconfig
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.AssemblyInfoInputs.cache
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.AssemblyInfo.cs
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.csproj.CoreCompileInputs.cache
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.MvcApplicationPartsAssemblyInfo.cs
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.MvcApplicationPartsAssemblyInfo.cache
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\staticwebassets.build.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\staticwebassets.development.json
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\scopedcss\bundle\Car Management System.styles.css
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.csproj.CopyComplete
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\ref\Car Management System.dll
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.pdb
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.genruntimeconfig.cache
+E:\November disk Visual Studio REPO\Repository\Car Management System\Car Management System\obj\Debug\net6.0\Car Management System.csproj.AssemblyReference.cache
