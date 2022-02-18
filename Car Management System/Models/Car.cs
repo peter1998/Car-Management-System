@@ -3,6 +3,9 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Car_Management_System.Models
 {
+    /// <summary>
+    ///  Models a class for Cars in the market scope.
+    /// </summary>
     public class Car
     {
         [Required]
